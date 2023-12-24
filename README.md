@@ -6,12 +6,13 @@ If you want to make any improvements or better changes for this, feel free to ma
 
 ## Required Items
  - **ARC9** (which needs to be installed in order to make this pack work and serves as the main weapon base):
-https://github.com/HaodongMo/ARC-9
+https://githubfast.com/HaodongMo/ARC-9
  - **[ARC9] Call of Duty: Modern Warfare Shared** (must install, serves as the main universal attachments):
-https://github.com/CurlySparkle/ARC9_Cod2019_Shared
+https://githubfast.com/CurlySparkle/ARC9_Cod2019_Shared
 
 ### Optional
  - **[ARC9] Gunsmith Reloaded** (official support for extra attachments):
-https://github.com/CurlySparkle/ARC9-GSR
+https://githubfast.com/CurlySparkle/ARC9-GSR
  - **[ARC9] Escape from Tarkov Shared** (official support for extra attachments):
 https://steamcommunity.com/sharedfiles/filedetails/?id=2917343547
+测试
